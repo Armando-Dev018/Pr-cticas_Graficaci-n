@@ -1,2 +1,2 @@
-# Pr-cticas_Graficaci-n
+# Practicas_Graficacion
 Prácticas
